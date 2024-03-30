@@ -31,4 +31,14 @@
       <sup>Gothic 2 Returning New Balance Installation Guide & modlist</sup>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/the-overdriven/Europa-Universalis-4-modlist">Europa Universalis IV</a></h3>
+      <sup>Europa Universalis IV modlist</sup>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/the-overdriven/Crusader-Kings-3-modlist">Crusader Kings 3</a></h3>
+      <sup>Crusader Kings 3 modlist</sup>
+    </td>
+  </tr>
 </table>
