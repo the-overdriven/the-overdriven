@@ -27,8 +27,8 @@
       <sup>Morrowind issues and how to fix them</sup>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/the-overdriven/g2-nb-install-guide">Gothic 2</a></h3>
-      <sup>Gothic 2 Returning New Balance Installation Guide & modlist</sup>
+      <h3><a href="https://github.com/the-overdriven?tab=repositories&q=G2">Gothic 2</a></h3>
+      <sup>My Gothic 2 related repositories</sup>
     </td>
   </tr>
   <tr>
