@@ -23,8 +23,8 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/the-overdriven/morrowind-issues-and-fixes">Morrowind</a></h3>
-      <sup>Morrowind issues and how to fix them</sup>
+      <h3><a href="https://github.com/the-overdriven?tab=repositories&q=mw">Morrowind</a></h3>
+      <sup>My Morrowind related repositories</sup>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/the-overdriven?tab=repositories&q=G2">Gothic 2</a></h3>
